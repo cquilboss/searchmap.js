@@ -100,11 +100,11 @@ Below a study about some good practice in term of UX/UI found on large real esta
 
 Markers icons for properties need to be similar in order to be separate other information that can be displayed on the map. Using icon, number or colors can help to distinguishSometimes there are multiple property at the same location needs to be clear, ex. having an indication of the size (label or icon size) and separate single results.
 
-![https://github.com/cquilboss/searchmap.js/doc/funda.nl.png](https://github.com/cquilboss/searchmap.js/doc/funda.nl.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docfunda.nl.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docfunda.nl.png)
 
 [funda.nl](https://funda.nl) with 3 different icon markers (single, 1-30, multiple)
 
-![https://github.com/cquilboss/searchmap.js/doc/zillow.png](https://github.com/cquilboss/searchmap.js/doc/zillow.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/doczillow.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/doczillow.png)
 
 [zillow.com](https://zillow.com) different colors per type
 
@@ -112,7 +112,7 @@ Markers icons for properties need to be similar in order to be separate other in
 
 Sometimes map navigation can be sluggish so adding animation while loading elements help users
 
-![https://github.com/cquilboss/searchmap.js/doc/seloger-anim.gif](https://github.com/cquilboss/searchmap.js/doc/seloger-anim.gif)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docseloger-anim.gif](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docseloger-anim.gif)
 
 [seloger.com](https://seloger.com) marker animation when zoomed
 
@@ -121,7 +121,7 @@ Sometimes map navigation can be sluggish so adding animation while loading eleme
 Display all the listings on the map to avoid the feeling that properties are missing. Then do not overload the map and create dynamic clusters that varies with zoom.
 Also using a indication of the size of the cluster with a number and different size is better in term of UX.
 
-![https://github.com/cquilboss/searchmap.js/doc/homesnap.com.png](https://github.com/cquilboss/searchmap.js/doc/homesnap.com.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/dochomesnap.com.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/dochomesnap.com.png)
 
 [homesnap.com](https://homesnap.com) with a number and an according circle size
 
@@ -129,7 +129,7 @@ Also using a indication of the size of the cluster with a number and different s
 
 In real-estate it can be nice to get the street number, train station, and every helpful infomration when zoomed in.
 
-![https://github.com/cquilboss/searchmap.js/doc/street-number.png](https://github.com/cquilboss/searchmap.js/doc/street-number.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docstreet-number.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docstreet-number.png)
 
 [mapbox.com](https://mapbox.com) configured to display street numbers when zoom 17+
 
@@ -137,7 +137,7 @@ In real-estate it can be nice to get the street number, train station, and every
 
 When zoomed display the parcel with the estimated price
 
-![https://github.com/cquilboss/searchmap.js/doc/redfin-parcel.png](https://github.com/cquilboss/searchmap.js/doc/redfin-parcel.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docredfin-parcel.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docredfin-parcel.png)
 
 [redfin.com](https://redfin.com) parcel view
 
@@ -150,11 +150,11 @@ Display all the point of interest around the properties. More for an advanced us
 - Supermarket
 - Schools w/ district
 
-![https://github.com/cquilboss/searchmap.js/doc/pararius.nl.png](https://github.com/cquilboss/searchmap.js/doc/pararius.nl.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docpararius.nl.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docpararius.nl.png)
 
 [pararius.nl](https://pararius.nl) point of interests
 
-![https://github.com/cquilboss/searchmap.js/doc/nooklyn.png](https://github.com/cquilboss/searchmap.js/doc/nooklyn.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docnooklyn.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docnooklyn.png)
 
 [nooklyn.com](https://nooklyn.com) metro lines with colors
 
@@ -162,19 +162,19 @@ Display all the point of interest around the properties. More for an advanced us
 
 Display on the map information like satellite, bird view, crime, flood insurance, elevation overlays, mobile or Internet speed, etc.. Can be count-productive in some location.
 
-![https://github.com/cquilboss/searchmap.js/doc/meilleursagents-price.png](https://github.com/cquilboss/searchmap.js/doc/meilleursagents-price.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docmeilleursagents-price.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docmeilleursagents-price.png)
 
 [meilleursagents.com](https://meilleursagents.com) price map
 
-![https://github.com/cquilboss/searchmap.js/doc/home61.com-flood.png](https://github.com/cquilboss/searchmap.js/doc/home61.com-flood.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/dochome61.com-flood.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/dochome61.com-flood.png)
 
 [home61.com](https://www.home61.com/for-sale/real-estate/) flood insurance in colors
 
-![https://github.com/cquilboss/searchmap.js/doc/realtor.com-crime-overlay.png](https://github.com/cquilboss/searchmap.js/doc/realtor.com-crime-overlay.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docrealtor.com-crime-overlay.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docrealtor.com-crime-overlay.png)
 
 [realtor.com](https://realtor.com) crime in colors
 
-![https://github.com/cquilboss/searchmap.js/doc/immobilienscout24-speed.png](https://github.com/cquilboss/searchmap.js/doc/immobilienscout24-speed.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docimmobilienscout24-speed.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docimmobilienscout24-speed.png)
 
 [immobilienscout24.de](https://immobilienscout24.de) internet speed on the map
 
@@ -182,7 +182,7 @@ Display on the map information like satellite, bird view, crime, flood insurance
 
 In Mix mode (Map + List/Photo), clicking on a property in the map should highlight the property in the list, and same in the other way. The list should also scroll to be visible.
 
-![https://github.com/cquilboss/searchmap.js/doc/apartment.com.png](https://github.com/cquilboss/searchmap.js/doc/apartment.com.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docapartment.com.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docapartment.com.png)
 
 [apartment.com](https://apartment.com) when click on map it scroll and highlight in the list, same in the other way
 
@@ -190,7 +190,7 @@ In Mix mode (Map + List/Photo), clicking on a property in the map should highlig
 
 Be able to identify properties already clicked, visited or in favorite help a lot.
 
-![https://github.com/cquilboss/searchmap.js/doc/openlistings.com.png](https://github.com/cquilboss/searchmap.js/doc/openlistings.com.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docopenlistings.com.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docopenlistings.com.png)
 
 [openlistings.com](https://openlistings.com) put marker label in gray once clicked
 
@@ -198,7 +198,7 @@ Be able to identify properties already clicked, visited or in favorite help a lo
 
 Display the coming open houses directly on the map to convert more.
 
-![https://github.com/cquilboss/searchmap.js/doc/compass-openhouse.png](https://github.com/cquilboss/searchmap.js/doc/compass-openhouse.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/doccompass-openhouse.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/doccompass-openhouse.png)
 
 [compass.com](https://compass.com) open houses on the map
 
@@ -206,7 +206,7 @@ Display the coming open houses directly on the map to convert more.
 
 When dealing with properties we cannot geolocate like non-exclusive properties, a nice radius or polygon can help
 
-![https://github.com/cquilboss/searchmap.js/doc/bienici.png](https://github.com/cquilboss/searchmap.js/doc/bienici.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docbienici.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docbienici.png)
 
 [bienici.com](https://bienici.com) with non-exclusive properties
 
@@ -214,7 +214,7 @@ When dealing with properties we cannot geolocate like non-exclusive properties, 
 
 Display new property but also price reduced can be helpful. 
 
-![https://github.com/cquilboss/searchmap.js/doc/xome.png](https://github.com/cquilboss/searchmap.js/doc/xome.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docxome.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docxome.png)
 
 [xome.com](https://xome.com) displays NEW listings
 
@@ -222,7 +222,7 @@ Display new property but also price reduced can be helpful.
 
 Display tags, just be careful not do a rainbow of icons, for example nobody knows what stars are meaning.
 
-![https://github.com/cquilboss/searchmap.js/doc/redfin.png](https://github.com/cquilboss/searchmap.js/doc/redfin.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docredfin.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docredfin.png)
 
 [redfin.com](https://redfin.com/) add tags like HOT, STAR, VIDEO, EXCLUSIVE
 
@@ -230,7 +230,7 @@ Display tags, just be careful not do a rainbow of icons, for example nobody know
 
 Instead of large picture in mix mode, having a list mode like a spreadsheet. Sometimes also possible to export into a spreadsheet.
 
-![https://github.com/cquilboss/searchmap.js/doc/redfin-list.png](https://github.com/cquilboss/searchmap.js/doc/redfin-list.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docredfin-list.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docredfin-list.png)
 
 [redfin.com](https://redfin.com) list mode
 
@@ -238,7 +238,7 @@ Instead of large picture in mix mode, having a list mode like a spreadsheet. Som
 
 All new browser are now compatible with a dark mode, map can do that too
 
-![https://github.com/cquilboss/searchmap.js/doc/darkmode.png](https://github.com/cquilboss/searchmap.js/doc/darkmode.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docdarkmode.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/docdarkmode.png)
 
 [mapbox.com](https://mapbox.com) custom map for dark mode
 
@@ -254,7 +254,7 @@ See the property detail should open a new window (ala Airbnb). Replacing the exi
 
 Thanks to WebGL [adoption](https://caniuse.com/#feat=webgl) maps can now have a 3D effect like on Waze App. Furthermore loading is far smoother than with previous Leaflet tiles. 
 
-![https://github.com/cquilboss/searchmap.js/doc/home61.png](https://github.com/cquilboss/searchmap.js/doc/home61.png)
+![https://raw.githubusercontent.com/cquilboss/searchmap.js/master/dochome61.png](https://raw.githubusercontent.com/cquilboss/searchmap.js/master/dochome61.png)
 
 [home61.com](https://www.home61.com) map with 30° pinch
 
